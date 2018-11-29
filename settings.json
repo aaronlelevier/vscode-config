@@ -1,0 +1,14 @@
+{
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Monokai",
+    "editor.fontSize": 11,
+    "editor.rulers": [
+        90
+    ],
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        "**/*.pyc": true
+    }
+}
