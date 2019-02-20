@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 11,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 2
+}
